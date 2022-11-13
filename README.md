@@ -1,3 +1,4 @@
+Orignially created by iJacks1980, however the account and repo have been deleted. This is a fork of mmalewski's fork of the original plugin
 ## Commander PRO Plugin
 
 <p align=center>Commander PRO Plugin for Rem0o's Fan Control</span>
